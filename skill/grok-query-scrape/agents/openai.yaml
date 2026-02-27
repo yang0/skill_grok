@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grok Query Scraper"
+  short_description: "Submit Grok prompts and capture raw replies"
+  default_prompt: "Use $grok-query-scrape to submit a Grok prompt and return/save the raw response text without parsing."

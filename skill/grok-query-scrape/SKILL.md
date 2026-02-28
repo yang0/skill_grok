@@ -12,6 +12,10 @@ Use this skill to run a repeatable Grok automation workflow:
 - Wait for answer generation to stabilize
 - Return and save raw output only (no parsing)
 
+Language guides:
+- Chinese guide: [references/usage_zh.md](references/usage_zh.md)
+- English guide: [references/usage_en.md](references/usage_en.md)
+
 ## Workflow
 
 1. Install runtime dependencies when missing:

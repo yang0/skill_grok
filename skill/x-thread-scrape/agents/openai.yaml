@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Thread Scraper"
+  short_description: "Scrape full X thread text and images"
+  default_prompt: "Use $x-thread-scrape to capture a seed tweet, same-author continuation posts, and related images from X."
